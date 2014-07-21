@@ -18,23 +18,6 @@
 		4B78DBA8197CAB6C00CA9CE3 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B78DBA7197CAB6C00CA9CE3 /* CoreText.framework */; };
 		4B78DBAA197CAB6C00CA9CE3 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B78DBA9197CAB6C00CA9CE3 /* GLKit.framework */; };
 		4B78DBB0197CAB6C00CA9CE3 /* libObjectiveChipmunk.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B78DBAD197CAB6C00CA9CE3 /* libObjectiveChipmunk.a */; };
-		4B78DBB4197CAB6C00CA9CE3 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBB3197CAB6C00CA9CE3 /* Default.png */; };
-		4B78DBB6197CAB6C00CA9CE3 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBB5197CAB6C00CA9CE3 /* Default@2x.png */; };
-		4B78DBB8197CAB6C00CA9CE3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBB7197CAB6C00CA9CE3 /* Default-568h@2x.png */; };
-		4B78DBBA197CAB6C00CA9CE3 /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBB9197CAB6C00CA9CE3 /* Default-Landscape~ipad.png */; };
-		4B78DBBD197CAB6C00CA9CE3 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBBC197CAB6C00CA9CE3 /* Icon.png */; };
-		4B78DBBF197CAB6C00CA9CE3 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBBE197CAB6C00CA9CE3 /* Icon@2x.png */; };
-		4B78DBC1197CAB6C00CA9CE3 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBC0197CAB6C00CA9CE3 /* Icon-72.png */; };
-		4B78DBC3197CAB6C00CA9CE3 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBC2197CAB6C00CA9CE3 /* Icon-72@2x.png */; };
-		4B78DBC5197CAB6C00CA9CE3 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBC4197CAB6C00CA9CE3 /* Icon-76.png */; };
-		4B78DBC7197CAB6C00CA9CE3 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBC6197CAB6C00CA9CE3 /* Icon-76@2x.png */; };
-		4B78DBC9197CAB6C00CA9CE3 /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBC8197CAB6C00CA9CE3 /* Icon-120.png */; };
-		4B78DBCB197CAB6C00CA9CE3 /* Icon-iPad-Spotlight-iOS7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBCA197CAB6C00CA9CE3 /* Icon-iPad-Spotlight-iOS7@2x.png */; };
-		4B78DBCD197CAB6C00CA9CE3 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBCC197CAB6C00CA9CE3 /* Icon-Small-50.png */; };
-		4B78DBCF197CAB6C00CA9CE3 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBCE197CAB6C00CA9CE3 /* Icon-Small.png */; };
-		4B78DBD1197CAB6C00CA9CE3 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBD0197CAB6C00CA9CE3 /* Icon-Small@2x.png */; };
-		4B78DBD3197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBD2197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7.png */; };
-		4B78DBD5197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBD4197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7@2x.png */; };
 		4B78DBD8197CAB6C00CA9CE3 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBD7197CAB6C00CA9CE3 /* iTunesArtwork */; };
 		4B78DBDA197CAB6C00CA9CE3 /* iTunesArtwork@2x in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DBD9197CAB6C00CA9CE3 /* iTunesArtwork@2x */; };
 		4B78DBEC197CAB6C00CA9CE3 /* CCEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DBEB197CAB6C00CA9CE3 /* CCEffect.m */; };
@@ -202,6 +185,54 @@
 		4B78DE13197CAB6E00CA9CE3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DE12197CAB6E00CA9CE3 /* AppDelegate.m */; };
 		4B78DE16197CAB6E00CA9CE3 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DE15197CAB6E00CA9CE3 /* HelloWorldScene.m */; };
 		4B78DE19197CAB6E00CA9CE3 /* IntroScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DE18197CAB6E00CA9CE3 /* IntroScene.m */; };
+		4B78DE4F197CACB300CA9CE3 /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE24197CACB300CA9CE3 /* Default-Landscape.png */; };
+		4B78DE50197CACB300CA9CE3 /* Default-LandscapeLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE25197CACB300CA9CE3 /* Default-LandscapeLeft.png */; };
+		4B78DE51197CACB300CA9CE3 /* Default-LandscapeRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE26197CACB300CA9CE3 /* Default-LandscapeRight.png */; };
+		4B78DE52197CACB300CA9CE3 /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE27197CACB300CA9CE3 /* Default-Portrait.png */; };
+		4B78DE53197CACB300CA9CE3 /* Default-PortraitUpsideDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE28197CACB300CA9CE3 /* Default-PortraitUpsideDown.png */; };
+		4B78DE54197CACB300CA9CE3 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE29197CACB300CA9CE3 /* Default.png */; };
+		4B78DE55197CACB300CA9CE3 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE2A197CACB300CA9CE3 /* Default@2x.png */; };
+		4B78DE56197CACB300CA9CE3 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE2D197CACB300CA9CE3 /* background.png */; };
+		4B78DE57197CACB300CA9CE3 /* backgroundiPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE2F197CACB300CA9CE3 /* backgroundiPhone.png */; };
+		4B78DE58197CACB300CA9CE3 /* backgroundiPhone-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE31197CACB300CA9CE3 /* backgroundiPhone-hd.png */; };
+		4B78DE59197CACB300CA9CE3 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE33197CACB300CA9CE3 /* Icon-72.png */; };
+		4B78DE5A197CACB300CA9CE3 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE34197CACB300CA9CE3 /* Icon-Small-50.png */; };
+		4B78DE5B197CACB300CA9CE3 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE35197CACB300CA9CE3 /* Icon-Small.png */; };
+		4B78DE5C197CACB300CA9CE3 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE36197CACB300CA9CE3 /* Icon-Small@2x.png */; };
+		4B78DE5D197CACB300CA9CE3 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE37197CACB300CA9CE3 /* Icon.png */; };
+		4B78DE5E197CACB300CA9CE3 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE38197CACB300CA9CE3 /* Icon@2x.png */; };
+		4B78DE5F197CACB300CA9CE3 /* intro1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE3A197CACB300CA9CE3 /* intro1.png */; };
+		4B78DE60197CACB300CA9CE3 /* intro2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE3B197CACB300CA9CE3 /* intro2.png */; };
+		4B78DE61197CACB300CA9CE3 /* intro3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE3C197CACB300CA9CE3 /* intro3.png */; };
+		4B78DE62197CACB300CA9CE3 /* intro4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE3D197CACB300CA9CE3 /* intro4.png */; };
+		4B78DE63197CACB300CA9CE3 /* intro5.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE3E197CACB300CA9CE3 /* intro5.png */; };
+		4B78DE64197CACB300CA9CE3 /* intro6.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE3F197CACB300CA9CE3 /* intro6.png */; };
+		4B78DE65197CACB300CA9CE3 /* intro7.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE40197CACB300CA9CE3 /* intro7.png */; };
+		4B78DE66197CACB300CA9CE3 /* dpadDown-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE42197CACB300CA9CE3 /* dpadDown-hd.png */; };
+		4B78DE67197CACB300CA9CE3 /* dpadDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE43197CACB300CA9CE3 /* dpadDown.png */; };
+		4B78DE68197CACB300CA9CE3 /* handDown-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE44197CACB300CA9CE3 /* handDown-hd.png */; };
+		4B78DE69197CACB300CA9CE3 /* handDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE45197CACB300CA9CE3 /* handDown.png */; };
+		4B78DE6A197CACB300CA9CE3 /* handUp-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE46197CACB300CA9CE3 /* handUp-hd.png */; };
+		4B78DE6B197CACB300CA9CE3 /* handUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE47197CACB300CA9CE3 /* handUp.png */; };
+		4B78DE6C197CACB300CA9CE3 /* joystickDown-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE48197CACB300CA9CE3 /* joystickDown-hd.png */; };
+		4B78DE6D197CACB300CA9CE3 /* joystickDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE49197CACB300CA9CE3 /* joystickDown.png */; };
+		4B78DE6E197CACB300CA9CE3 /* jumpDown-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE4A197CACB300CA9CE3 /* jumpDown-hd.png */; };
+		4B78DE6F197CACB300CA9CE3 /* jumpDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE4B197CACB300CA9CE3 /* jumpDown.png */; };
+		4B78DE70197CACB300CA9CE3 /* jumpUp-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE4C197CACB300CA9CE3 /* jumpUp-hd.png */; };
+		4B78DE71197CACB300CA9CE3 /* jumpUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE4D197CACB300CA9CE3 /* jumpUp.png */; };
+		4B78DE72197CACB300CA9CE3 /* sv_anim_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE4E197CACB300CA9CE3 /* sv_anim_1.png */; };
+		4B78DE75197CAF6B00CA9CE3 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DE74197CAF6B00CA9CE3 /* GameScene.m */; };
+		4B78DEA6197CDADE00CA9CE3 /* Joystick.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEA5197CDADE00CA9CE3 /* Joystick.m */; };
+		4B78DED4197CE1EA00CA9CE3 /* ColoredCircleSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC1197CE1EA00CA9CE3 /* ColoredCircleSprite.m */; };
+		4B78DED5197CE1EA00CA9CE3 /* ColoredSquareSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC3197CE1EA00CA9CE3 /* ColoredSquareSprite.m */; };
+		4B78DED6197CE1EA00CA9CE3 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC5197CE1EA00CA9CE3 /* HelloWorldScene.m */; };
+		4B78DED7197CE1EA00CA9CE3 /* SneakyButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC7197CE1EA00CA9CE3 /* SneakyButton.m */; };
+		4B78DED8197CE1EA00CA9CE3 /* SneakyButtonSkinnedBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC9197CE1EA00CA9CE3 /* SneakyButtonSkinnedBase.m */; };
+		4B78DED9197CE1EA00CA9CE3 /* SneakyInput_0_4_0AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DECB197CE1EA00CA9CE3 /* SneakyInput_0_4_0AppDelegate.m */; };
+		4B78DEDA197CE1EA00CA9CE3 /* SneakyJoystick.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DECD197CE1EA00CA9CE3 /* SneakyJoystick.m */; };
+		4B78DEDB197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DECF197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.m */; };
+		4B78DEDC197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DED1197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m */; };
+		4B78DEDD197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DED3197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -227,23 +258,6 @@
 		4B78DBA7197CAB6C00CA9CE3 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		4B78DBA9197CAB6C00CA9CE3 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		4B78DBAD197CAB6C00CA9CE3 /* libObjectiveChipmunk.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libObjectiveChipmunk.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		4B78DBB3197CAB6C00CA9CE3 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = Resources/Default.png; sourceTree = "<group>"; };
-		4B78DBB5197CAB6C00CA9CE3 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Resources/Default@2x.png"; sourceTree = "<group>"; };
-		4B78DBB7197CAB6C00CA9CE3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Resources/Default-568h@2x.png"; sourceTree = "<group>"; };
-		4B78DBB9197CAB6C00CA9CE3 /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape~ipad.png"; path = "Resources/Default-Landscape~ipad.png"; sourceTree = "<group>"; };
-		4B78DBBC197CAB6C00CA9CE3 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = Resources/Icons/Icon.png; sourceTree = "<group>"; };
-		4B78DBBE197CAB6C00CA9CE3 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "Resources/Icons/Icon@2x.png"; sourceTree = "<group>"; };
-		4B78DBC0197CAB6C00CA9CE3 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "Resources/Icons/Icon-72.png"; sourceTree = "<group>"; };
-		4B78DBC2197CAB6C00CA9CE3 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "Resources/Icons/Icon-72@2x.png"; sourceTree = "<group>"; };
-		4B78DBC4197CAB6C00CA9CE3 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "Resources/Icons/Icon-76.png"; sourceTree = "<group>"; };
-		4B78DBC6197CAB6C00CA9CE3 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76@2x.png"; path = "Resources/Icons/Icon-76@2x.png"; sourceTree = "<group>"; };
-		4B78DBC8197CAB6C00CA9CE3 /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-120.png"; path = "Resources/Icons/Icon-120.png"; sourceTree = "<group>"; };
-		4B78DBCA197CAB6C00CA9CE3 /* Icon-iPad-Spotlight-iOS7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-iPad-Spotlight-iOS7@2x.png"; path = "Resources/Icons/Icon-iPad-Spotlight-iOS7@2x.png"; sourceTree = "<group>"; };
-		4B78DBCC197CAB6C00CA9CE3 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-50.png"; path = "Resources/Icons/Icon-Small-50.png"; sourceTree = "<group>"; };
-		4B78DBCE197CAB6C00CA9CE3 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small.png"; path = "Resources/Icons/Icon-Small.png"; sourceTree = "<group>"; };
-		4B78DBD0197CAB6C00CA9CE3 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "Resources/Icons/Icon-Small@2x.png"; sourceTree = "<group>"; };
-		4B78DBD2197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Spotlight-iOS7.png"; path = "Resources/Icons/Icon-Spotlight-iOS7.png"; sourceTree = "<group>"; };
-		4B78DBD4197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Spotlight-iOS7@2x.png"; path = "Resources/Icons/Icon-Spotlight-iOS7@2x.png"; sourceTree = "<group>"; };
 		4B78DBD6197CAB6C00CA9CE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Resources/Info.plist; sourceTree = "<group>"; };
 		4B78DBD7197CAB6C00CA9CE3 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; name = iTunesArtwork; path = ../iTunesArtwork; sourceTree = "<group>"; };
 		4B78DBD9197CAB6C00CA9CE3 /* iTunesArtwork@2x */ = {isa = PBXFileReference; lastKnownFileType = file; name = "iTunesArtwork@2x"; path = "../iTunesArtwork@2x"; sourceTree = "<group>"; };
@@ -613,6 +627,66 @@
 		4B78DE15197CAB6E00CA9CE3 /* HelloWorldScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HelloWorldScene.m; path = Classes/HelloWorldScene.m; sourceTree = "<group>"; };
 		4B78DE17197CAB6E00CA9CE3 /* IntroScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = IntroScene.h; path = Classes/IntroScene.h; sourceTree = "<group>"; };
 		4B78DE18197CAB6E00CA9CE3 /* IntroScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = IntroScene.m; path = Classes/IntroScene.m; sourceTree = "<group>"; };
+		4B78DE24197CACB300CA9CE3 /* Default-Landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape.png"; sourceTree = "<group>"; };
+		4B78DE25197CACB300CA9CE3 /* Default-LandscapeLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-LandscapeLeft.png"; sourceTree = "<group>"; };
+		4B78DE26197CACB300CA9CE3 /* Default-LandscapeRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-LandscapeRight.png"; sourceTree = "<group>"; };
+		4B78DE27197CACB300CA9CE3 /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait.png"; sourceTree = "<group>"; };
+		4B78DE28197CACB300CA9CE3 /* Default-PortraitUpsideDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-PortraitUpsideDown.png"; sourceTree = "<group>"; };
+		4B78DE29197CACB300CA9CE3 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		4B78DE2A197CACB300CA9CE3 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		4B78DE2D197CACB300CA9CE3 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		4B78DE2F197CACB300CA9CE3 /* backgroundiPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundiPhone.png; sourceTree = "<group>"; };
+		4B78DE31197CACB300CA9CE3 /* backgroundiPhone-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "backgroundiPhone-hd.png"; sourceTree = "<group>"; };
+		4B78DE33197CACB300CA9CE3 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		4B78DE34197CACB300CA9CE3 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		4B78DE35197CACB300CA9CE3 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		4B78DE36197CACB300CA9CE3 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		4B78DE37197CACB300CA9CE3 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		4B78DE38197CACB300CA9CE3 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		4B78DE3A197CACB300CA9CE3 /* intro1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = intro1.png; sourceTree = "<group>"; };
+		4B78DE3B197CACB300CA9CE3 /* intro2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = intro2.png; sourceTree = "<group>"; };
+		4B78DE3C197CACB300CA9CE3 /* intro3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = intro3.png; sourceTree = "<group>"; };
+		4B78DE3D197CACB300CA9CE3 /* intro4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = intro4.png; sourceTree = "<group>"; };
+		4B78DE3E197CACB300CA9CE3 /* intro5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = intro5.png; sourceTree = "<group>"; };
+		4B78DE3F197CACB300CA9CE3 /* intro6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = intro6.png; sourceTree = "<group>"; };
+		4B78DE40197CACB300CA9CE3 /* intro7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = intro7.png; sourceTree = "<group>"; };
+		4B78DE42197CACB300CA9CE3 /* dpadDown-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dpadDown-hd.png"; sourceTree = "<group>"; };
+		4B78DE43197CACB300CA9CE3 /* dpadDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dpadDown.png; sourceTree = "<group>"; };
+		4B78DE44197CACB300CA9CE3 /* handDown-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "handDown-hd.png"; sourceTree = "<group>"; };
+		4B78DE45197CACB300CA9CE3 /* handDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = handDown.png; sourceTree = "<group>"; };
+		4B78DE46197CACB300CA9CE3 /* handUp-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "handUp-hd.png"; sourceTree = "<group>"; };
+		4B78DE47197CACB300CA9CE3 /* handUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = handUp.png; sourceTree = "<group>"; };
+		4B78DE48197CACB300CA9CE3 /* joystickDown-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "joystickDown-hd.png"; sourceTree = "<group>"; };
+		4B78DE49197CACB300CA9CE3 /* joystickDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = joystickDown.png; sourceTree = "<group>"; };
+		4B78DE4A197CACB300CA9CE3 /* jumpDown-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jumpDown-hd.png"; sourceTree = "<group>"; };
+		4B78DE4B197CACB300CA9CE3 /* jumpDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jumpDown.png; sourceTree = "<group>"; };
+		4B78DE4C197CACB300CA9CE3 /* jumpUp-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jumpUp-hd.png"; sourceTree = "<group>"; };
+		4B78DE4D197CACB300CA9CE3 /* jumpUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jumpUp.png; sourceTree = "<group>"; };
+		4B78DE4E197CACB300CA9CE3 /* sv_anim_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sv_anim_1.png; sourceTree = "<group>"; };
+		4B78DE73197CAF6B00CA9CE3 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameScene.h; path = Classes/GameScene.h; sourceTree = "<group>"; };
+		4B78DE74197CAF6B00CA9CE3 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameScene.m; path = Classes/GameScene.m; sourceTree = "<group>"; };
+		4B78DEA4197CDADE00CA9CE3 /* Joystick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Joystick.h; sourceTree = "<group>"; };
+		4B78DEA5197CDADE00CA9CE3 /* Joystick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Joystick.m; sourceTree = "<group>"; };
+		4B78DEC0197CE1EA00CA9CE3 /* ColoredCircleSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColoredCircleSprite.h; sourceTree = "<group>"; };
+		4B78DEC1197CE1EA00CA9CE3 /* ColoredCircleSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColoredCircleSprite.m; sourceTree = "<group>"; };
+		4B78DEC2197CE1EA00CA9CE3 /* ColoredSquareSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColoredSquareSprite.h; sourceTree = "<group>"; };
+		4B78DEC3197CE1EA00CA9CE3 /* ColoredSquareSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColoredSquareSprite.m; sourceTree = "<group>"; };
+		4B78DEC4197CE1EA00CA9CE3 /* HelloWorldScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloWorldScene.h; sourceTree = "<group>"; };
+		4B78DEC5197CE1EA00CA9CE3 /* HelloWorldScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelloWorldScene.m; sourceTree = "<group>"; };
+		4B78DEC6197CE1EA00CA9CE3 /* SneakyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyButton.h; sourceTree = "<group>"; };
+		4B78DEC7197CE1EA00CA9CE3 /* SneakyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyButton.m; sourceTree = "<group>"; };
+		4B78DEC8197CE1EA00CA9CE3 /* SneakyButtonSkinnedBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyButtonSkinnedBase.h; sourceTree = "<group>"; };
+		4B78DEC9197CE1EA00CA9CE3 /* SneakyButtonSkinnedBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyButtonSkinnedBase.m; sourceTree = "<group>"; };
+		4B78DECA197CE1EA00CA9CE3 /* SneakyInput_0_4_0AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyInput_0_4_0AppDelegate.h; sourceTree = "<group>"; };
+		4B78DECB197CE1EA00CA9CE3 /* SneakyInput_0_4_0AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyInput_0_4_0AppDelegate.m; sourceTree = "<group>"; };
+		4B78DECC197CE1EA00CA9CE3 /* SneakyJoystick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyJoystick.h; sourceTree = "<group>"; };
+		4B78DECD197CE1EA00CA9CE3 /* SneakyJoystick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystick.m; sourceTree = "<group>"; };
+		4B78DECE197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyJoystickSkinnedBase.h; sourceTree = "<group>"; };
+		4B78DECF197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystickSkinnedBase.m; sourceTree = "<group>"; };
+		4B78DED0197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyJoystickSkinnedDPadExample.h; sourceTree = "<group>"; };
+		4B78DED1197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystickSkinnedDPadExample.m; sourceTree = "<group>"; };
+		4B78DED2197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyJoystickSkinnedJoystickExample.h; sourceTree = "<group>"; };
+		4B78DED3197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystickSkinnedJoystickExample.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -640,6 +714,7 @@
 		4B78DB8B197CAB6C00CA9CE3 = {
 			isa = PBXGroup;
 			children = (
+				4B78DEBF197CE1EA00CA9CE3 /* JoystickClasses */,
 				4B78DBB1197CAB6C00CA9CE3 /* cocos2d3SpaceViking */,
 				4B78DB96197CAB6C00CA9CE3 /* Frameworks */,
 				4B78DB95197CAB6C00CA9CE3 /* Products */,
@@ -686,36 +761,11 @@
 		4B78DBB2197CAB6C00CA9CE3 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				4B78DBB3197CAB6C00CA9CE3 /* Default.png */,
-				4B78DBB5197CAB6C00CA9CE3 /* Default@2x.png */,
-				4B78DBB7197CAB6C00CA9CE3 /* Default-568h@2x.png */,
-				4B78DBB9197CAB6C00CA9CE3 /* Default-Landscape~ipad.png */,
 				4B78DBD6197CAB6C00CA9CE3 /* Info.plist */,
 				4B78DBD7197CAB6C00CA9CE3 /* iTunesArtwork */,
 				4B78DBD9197CAB6C00CA9CE3 /* iTunesArtwork@2x */,
-				4B78DBBB197CAB6C00CA9CE3 /* Icons */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
-		};
-		4B78DBBB197CAB6C00CA9CE3 /* Icons */ = {
-			isa = PBXGroup;
-			children = (
-				4B78DBBC197CAB6C00CA9CE3 /* Icon.png */,
-				4B78DBBE197CAB6C00CA9CE3 /* Icon@2x.png */,
-				4B78DBC0197CAB6C00CA9CE3 /* Icon-72.png */,
-				4B78DBC2197CAB6C00CA9CE3 /* Icon-72@2x.png */,
-				4B78DBC4197CAB6C00CA9CE3 /* Icon-76.png */,
-				4B78DBC6197CAB6C00CA9CE3 /* Icon-76@2x.png */,
-				4B78DBC8197CAB6C00CA9CE3 /* Icon-120.png */,
-				4B78DBCA197CAB6C00CA9CE3 /* Icon-iPad-Spotlight-iOS7@2x.png */,
-				4B78DBCC197CAB6C00CA9CE3 /* Icon-Small-50.png */,
-				4B78DBCE197CAB6C00CA9CE3 /* Icon-Small.png */,
-				4B78DBD0197CAB6C00CA9CE3 /* Icon-Small@2x.png */,
-				4B78DBD2197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7.png */,
-				4B78DBD4197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7@2x.png */,
-			);
-			name = Icons;
 			sourceTree = "<group>";
 		};
 		4B78DBDB197CAB6C00CA9CE3 /* Libraries */ = {
@@ -1429,8 +1479,147 @@
 				4B78DE15197CAB6E00CA9CE3 /* HelloWorldScene.m */,
 				4B78DE17197CAB6E00CA9CE3 /* IntroScene.h */,
 				4B78DE18197CAB6E00CA9CE3 /* IntroScene.m */,
+				4B78DE73197CAF6B00CA9CE3 /* GameScene.h */,
+				4B78DE74197CAF6B00CA9CE3 /* GameScene.m */,
+				4B78DEA4197CDADE00CA9CE3 /* Joystick.h */,
+				4B78DEA5197CDADE00CA9CE3 /* Joystick.m */,
+				4B78DE22197CACB300CA9CE3 /* Images */,
 			);
 			name = Classes;
+			sourceTree = "<group>";
+		};
+		4B78DE22197CACB300CA9CE3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE23197CACB300CA9CE3 /* App Launch Images */,
+				4B78DE2B197CACB300CA9CE3 /* Backgrounds */,
+				4B78DE32197CACB300CA9CE3 /* Icons */,
+				4B78DE39197CACB300CA9CE3 /* Intro */,
+				4B78DE41197CACB300CA9CE3 /* Joystick */,
+				4B78DE4E197CACB300CA9CE3 /* sv_anim_1.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		4B78DE23197CACB300CA9CE3 /* App Launch Images */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE24197CACB300CA9CE3 /* Default-Landscape.png */,
+				4B78DE25197CACB300CA9CE3 /* Default-LandscapeLeft.png */,
+				4B78DE26197CACB300CA9CE3 /* Default-LandscapeRight.png */,
+				4B78DE27197CACB300CA9CE3 /* Default-Portrait.png */,
+				4B78DE28197CACB300CA9CE3 /* Default-PortraitUpsideDown.png */,
+				4B78DE29197CACB300CA9CE3 /* Default.png */,
+				4B78DE2A197CACB300CA9CE3 /* Default@2x.png */,
+			);
+			path = "App Launch Images";
+			sourceTree = "<group>";
+		};
+		4B78DE2B197CACB300CA9CE3 /* Backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE2C197CACB300CA9CE3 /* iPad Background */,
+				4B78DE2E197CACB300CA9CE3 /* iPhone (non-retina) Background */,
+				4B78DE30197CACB300CA9CE3 /* iPhone4 (retina) Background */,
+			);
+			path = Backgrounds;
+			sourceTree = "<group>";
+		};
+		4B78DE2C197CACB300CA9CE3 /* iPad Background */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE2D197CACB300CA9CE3 /* background.png */,
+			);
+			path = "iPad Background";
+			sourceTree = "<group>";
+		};
+		4B78DE2E197CACB300CA9CE3 /* iPhone (non-retina) Background */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE2F197CACB300CA9CE3 /* backgroundiPhone.png */,
+			);
+			path = "iPhone (non-retina) Background";
+			sourceTree = "<group>";
+		};
+		4B78DE30197CACB300CA9CE3 /* iPhone4 (retina) Background */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE31197CACB300CA9CE3 /* backgroundiPhone-hd.png */,
+			);
+			path = "iPhone4 (retina) Background";
+			sourceTree = "<group>";
+		};
+		4B78DE32197CACB300CA9CE3 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE33197CACB300CA9CE3 /* Icon-72.png */,
+				4B78DE34197CACB300CA9CE3 /* Icon-Small-50.png */,
+				4B78DE35197CACB300CA9CE3 /* Icon-Small.png */,
+				4B78DE36197CACB300CA9CE3 /* Icon-Small@2x.png */,
+				4B78DE37197CACB300CA9CE3 /* Icon.png */,
+				4B78DE38197CACB300CA9CE3 /* Icon@2x.png */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		4B78DE39197CACB300CA9CE3 /* Intro */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE3A197CACB300CA9CE3 /* intro1.png */,
+				4B78DE3B197CACB300CA9CE3 /* intro2.png */,
+				4B78DE3C197CACB300CA9CE3 /* intro3.png */,
+				4B78DE3D197CACB300CA9CE3 /* intro4.png */,
+				4B78DE3E197CACB300CA9CE3 /* intro5.png */,
+				4B78DE3F197CACB300CA9CE3 /* intro6.png */,
+				4B78DE40197CACB300CA9CE3 /* intro7.png */,
+			);
+			path = Intro;
+			sourceTree = "<group>";
+		};
+		4B78DE41197CACB300CA9CE3 /* Joystick */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DE42197CACB300CA9CE3 /* dpadDown-hd.png */,
+				4B78DE43197CACB300CA9CE3 /* dpadDown.png */,
+				4B78DE44197CACB300CA9CE3 /* handDown-hd.png */,
+				4B78DE45197CACB300CA9CE3 /* handDown.png */,
+				4B78DE46197CACB300CA9CE3 /* handUp-hd.png */,
+				4B78DE47197CACB300CA9CE3 /* handUp.png */,
+				4B78DE48197CACB300CA9CE3 /* joystickDown-hd.png */,
+				4B78DE49197CACB300CA9CE3 /* joystickDown.png */,
+				4B78DE4A197CACB300CA9CE3 /* jumpDown-hd.png */,
+				4B78DE4B197CACB300CA9CE3 /* jumpDown.png */,
+				4B78DE4C197CACB300CA9CE3 /* jumpUp-hd.png */,
+				4B78DE4D197CACB300CA9CE3 /* jumpUp.png */,
+			);
+			path = Joystick;
+			sourceTree = "<group>";
+		};
+		4B78DEBF197CE1EA00CA9CE3 /* JoystickClasses */ = {
+			isa = PBXGroup;
+			children = (
+				4B78DEC0197CE1EA00CA9CE3 /* ColoredCircleSprite.h */,
+				4B78DEC1197CE1EA00CA9CE3 /* ColoredCircleSprite.m */,
+				4B78DEC2197CE1EA00CA9CE3 /* ColoredSquareSprite.h */,
+				4B78DEC3197CE1EA00CA9CE3 /* ColoredSquareSprite.m */,
+				4B78DEC4197CE1EA00CA9CE3 /* HelloWorldScene.h */,
+				4B78DEC5197CE1EA00CA9CE3 /* HelloWorldScene.m */,
+				4B78DEC6197CE1EA00CA9CE3 /* SneakyButton.h */,
+				4B78DEC7197CE1EA00CA9CE3 /* SneakyButton.m */,
+				4B78DEC8197CE1EA00CA9CE3 /* SneakyButtonSkinnedBase.h */,
+				4B78DEC9197CE1EA00CA9CE3 /* SneakyButtonSkinnedBase.m */,
+				4B78DECA197CE1EA00CA9CE3 /* SneakyInput_0_4_0AppDelegate.h */,
+				4B78DECB197CE1EA00CA9CE3 /* SneakyInput_0_4_0AppDelegate.m */,
+				4B78DECC197CE1EA00CA9CE3 /* SneakyJoystick.h */,
+				4B78DECD197CE1EA00CA9CE3 /* SneakyJoystick.m */,
+				4B78DECE197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.h */,
+				4B78DECF197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.m */,
+				4B78DED0197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.h */,
+				4B78DED1197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m */,
+				4B78DED2197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.h */,
+				4B78DED3197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m */,
+			);
+			path = JoystickClasses;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1501,27 +1690,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B78DBB6197CAB6C00CA9CE3 /* Default@2x.png in Resources */,
-				4B78DBC9197CAB6C00CA9CE3 /* Icon-120.png in Resources */,
-				4B78DBBF197CAB6C00CA9CE3 /* Icon@2x.png in Resources */,
-				4B78DBD1197CAB6C00CA9CE3 /* Icon-Small@2x.png in Resources */,
-				4B78DBC3197CAB6C00CA9CE3 /* Icon-72@2x.png in Resources */,
-				4B78DBB4197CAB6C00CA9CE3 /* Default.png in Resources */,
-				4B78DBBD197CAB6C00CA9CE3 /* Icon.png in Resources */,
-				4B78DBCB197CAB6C00CA9CE3 /* Icon-iPad-Spotlight-iOS7@2x.png in Resources */,
-				4B78DBBA197CAB6C00CA9CE3 /* Default-Landscape~ipad.png in Resources */,
-				4B78DBCF197CAB6C00CA9CE3 /* Icon-Small.png in Resources */,
-				4B78DBCD197CAB6C00CA9CE3 /* Icon-Small-50.png in Resources */,
+				4B78DE56197CACB300CA9CE3 /* background.png in Resources */,
+				4B78DE6A197CACB300CA9CE3 /* handUp-hd.png in Resources */,
+				4B78DE53197CACB300CA9CE3 /* Default-PortraitUpsideDown.png in Resources */,
+				4B78DE51197CACB300CA9CE3 /* Default-LandscapeRight.png in Resources */,
+				4B78DE58197CACB300CA9CE3 /* backgroundiPhone-hd.png in Resources */,
+				4B78DE64197CACB300CA9CE3 /* intro6.png in Resources */,
+				4B78DE5B197CACB300CA9CE3 /* Icon-Small.png in Resources */,
+				4B78DE6C197CACB300CA9CE3 /* joystickDown-hd.png in Resources */,
+				4B78DE6D197CACB300CA9CE3 /* joystickDown.png in Resources */,
+				4B78DE5A197CACB300CA9CE3 /* Icon-Small-50.png in Resources */,
+				4B78DE70197CACB300CA9CE3 /* jumpUp-hd.png in Resources */,
+				4B78DE5E197CACB300CA9CE3 /* Icon@2x.png in Resources */,
+				4B78DE54197CACB300CA9CE3 /* Default.png in Resources */,
+				4B78DE62197CACB300CA9CE3 /* intro4.png in Resources */,
+				4B78DE59197CACB300CA9CE3 /* Icon-72.png in Resources */,
+				4B78DE63197CACB300CA9CE3 /* intro5.png in Resources */,
+				4B78DE6B197CACB300CA9CE3 /* handUp.png in Resources */,
+				4B78DE66197CACB300CA9CE3 /* dpadDown-hd.png in Resources */,
+				4B78DE60197CACB300CA9CE3 /* intro2.png in Resources */,
+				4B78DE4F197CACB300CA9CE3 /* Default-Landscape.png in Resources */,
+				4B78DE52197CACB300CA9CE3 /* Default-Portrait.png in Resources */,
+				4B78DE5C197CACB300CA9CE3 /* Icon-Small@2x.png in Resources */,
+				4B78DE61197CACB300CA9CE3 /* intro3.png in Resources */,
+				4B78DE5D197CACB300CA9CE3 /* Icon.png in Resources */,
+				4B78DE68197CACB300CA9CE3 /* handDown-hd.png in Resources */,
+				4B78DE65197CACB300CA9CE3 /* intro7.png in Resources */,
 				4B78DE0B197CAB6E00CA9CE3 /* LICENSE_Chipmunk.txt in Resources */,
-				4B78DBC1197CAB6C00CA9CE3 /* Icon-72.png in Resources */,
 				4B78DD9D197CAB6E00CA9CE3 /* LICENSE_CCBReader.txt in Resources */,
+				4B78DE67197CACB300CA9CE3 /* dpadDown.png in Resources */,
+				4B78DE6F197CACB300CA9CE3 /* jumpDown.png in Resources */,
 				4B78DD0D197CAB6D00CA9CE3 /* LICENSE_cocos2d.txt in Resources */,
-				4B78DBB8197CAB6C00CA9CE3 /* Default-568h@2x.png in Resources */,
+				4B78DE5F197CACB300CA9CE3 /* intro1.png in Resources */,
+				4B78DE57197CACB300CA9CE3 /* backgroundiPhone.png in Resources */,
 				4B78DBD8197CAB6C00CA9CE3 /* iTunesArtwork in Resources */,
-				4B78DBD3197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7.png in Resources */,
-				4B78DBC7197CAB6C00CA9CE3 /* Icon-76@2x.png in Resources */,
-				4B78DBD5197CAB6C00CA9CE3 /* Icon-Spotlight-iOS7@2x.png in Resources */,
-				4B78DBC5197CAB6C00CA9CE3 /* Icon-76.png in Resources */,
+				4B78DE72197CACB300CA9CE3 /* sv_anim_1.png in Resources */,
+				4B78DE50197CACB300CA9CE3 /* Default-LandscapeLeft.png in Resources */,
+				4B78DE55197CACB300CA9CE3 /* Default@2x.png in Resources */,
+				4B78DE69197CACB300CA9CE3 /* handDown.png in Resources */,
+				4B78DE6E197CACB300CA9CE3 /* jumpDown-hd.png in Resources */,
+				4B78DE71197CACB300CA9CE3 /* jumpUp.png in Resources */,
 				4B78DBDA197CAB6C00CA9CE3 /* iTunesArtwork@2x in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1550,6 +1758,7 @@
 				4B78DC0B197CAB6C00CA9CE3 /* CCCache.m in Sources */,
 				4B78DD64197CAB6D00CA9CE3 /* OALAudioFile.m in Sources */,
 				4B78DC3B197CAB6C00CA9CE3 /* CCDrawNode.m in Sources */,
+				4B78DEDD197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m in Sources */,
 				4B78DD26197CAB6D00CA9CE3 /* OALAudioTracks.m in Sources */,
 				4B78DBF2197CAB6C00CA9CE3 /* CCEffectColor.m in Sources */,
 				4B78DBEC197CAB6C00CA9CE3 /* CCEffect.m in Sources */,
@@ -1560,6 +1769,7 @@
 				4B78DCE6197CAB6D00CA9CE3 /* base64.c in Sources */,
 				4B78DC6F197CAB6C00CA9CE3 /* CCParticleSystemBase.m in Sources */,
 				4B78DCD4197CAB6D00CA9CE3 /* UITouch+CC.m in Sources */,
+				4B78DEA6197CDADE00CA9CE3 /* Joystick.m in Sources */,
 				4B78DD6E197CAB6D00CA9CE3 /* CCButton.m in Sources */,
 				4B78DC60197CAB6C00CA9CE3 /* CCParallaxNode.m in Sources */,
 				4B78DCF3197CAB6D00CA9CE3 /* ccUtils.c in Sources */,
@@ -1588,8 +1798,11 @@
 				4B78DC98197CAB6D00CA9CE3 /* CCSprite.m in Sources */,
 				4B78DD20197CAB6D00CA9CE3 /* OALAudioTrack.m in Sources */,
 				4B78DD61197CAB6D00CA9CE3 /* NSMutableDictionary+WeakReferences.m in Sources */,
+				4B78DEDA197CE1EA00CA9CE3 /* SneakyJoystick.m in Sources */,
+				4B78DEDC197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m in Sources */,
 				4B78DC1F197CAB6C00CA9CE3 /* CCActionManager.m in Sources */,
 				4B78DC81197CAB6D00CA9CE3 /* CCProgressNode.m in Sources */,
+				4B78DEDB197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.m in Sources */,
 				4B78DC8D197CAB6D00CA9CE3 /* CCResponderManager.m in Sources */,
 				4B78DCBF197CAB6D00CA9CE3 /* CCTransition.m in Sources */,
 				4B78DD16197CAB6D00CA9CE3 /* OALActionManager.m in Sources */,
@@ -1621,6 +1834,7 @@
 				4B78DC67197CAB6C00CA9CE3 /* CCParticleExamples.m in Sources */,
 				4B78DC33197CAB6C00CA9CE3 /* CCConfiguration.m in Sources */,
 				4B78DD38197CAB6D00CA9CE3 /* ALContext.m in Sources */,
+				4B78DED5197CE1EA00CA9CE3 /* ColoredSquareSprite.m in Sources */,
 				4B78DC12197CAB6C00CA9CE3 /* CCActionCatmullRom.m in Sources */,
 				4B78DCA4197CAB6D00CA9CE3 /* CCSpriteFrameCache.m in Sources */,
 				4B78DC2F197CAB6C00CA9CE3 /* CCClippingNode.m in Sources */,
@@ -1628,6 +1842,7 @@
 				4B78DC94197CAB6D00CA9CE3 /* CCScheduler.m in Sources */,
 				4B78DCB2197CAB6D00CA9CE3 /* CCTiledMap.m in Sources */,
 				4B78DBF4197CAB6C00CA9CE3 /* CCEffectColorPulse.m in Sources */,
+				4B78DED7197CE1EA00CA9CE3 /* SneakyButton.m in Sources */,
 				4B78DC8A197CAB6D00CA9CE3 /* CCResponder.m in Sources */,
 				4B78DC86197CAB6D00CA9CE3 /* CCRenderTexture.m in Sources */,
 				4B78DC3E197CAB6C00CA9CE3 /* ccFPSImages.m in Sources */,
@@ -1637,10 +1852,13 @@
 				4B78DCCD197CAB6D00CA9CE3 /* CCES2Renderer.m in Sources */,
 				4B78DC22197CAB6C00CA9CE3 /* CCActionProgressTimer.m in Sources */,
 				4B78DD05197CAB6D00CA9CE3 /* TGAlib.m in Sources */,
+				4B78DED6197CE1EA00CA9CE3 /* HelloWorldScene.m in Sources */,
+				4B78DED4197CE1EA00CA9CE3 /* ColoredCircleSprite.m in Sources */,
 				4B78DC18197CAB6C00CA9CE3 /* CCActionInstant.m in Sources */,
 				4B78DC1B197CAB6C00CA9CE3 /* CCActionInterval.m in Sources */,
 				4B78DC49197CAB6C00CA9CE3 /* CCNodeColor.m in Sources */,
 				4B78DCD7197CAB6D00CA9CE3 /* CCAppDelegate.m in Sources */,
+				4B78DE75197CAF6B00CA9CE3 /* GameScene.m in Sources */,
 				4B78DC37197CAB6C00CA9CE3 /* CCDirector.m in Sources */,
 				4B78DC15197CAB6C00CA9CE3 /* CCActionEase.m in Sources */,
 				4B78DBF6197CAB6C00CA9CE3 /* CCEffectGlow.m in Sources */,
@@ -1649,7 +1867,9 @@
 				4B78DC43197CAB6C00CA9CE3 /* CCLabelBMFont.m in Sources */,
 				4B78DD32197CAB6D00CA9CE3 /* ALCaptureDevice.m in Sources */,
 				4B78DCB6197CAB6D00CA9CE3 /* CCTiledMapLayer.m in Sources */,
+				4B78DED8197CE1EA00CA9CE3 /* SneakyButtonSkinnedBase.m in Sources */,
 				4B78DBFE197CAB6C00CA9CE3 /* CCEffectTexture.m in Sources */,
+				4B78DED9197CE1EA00CA9CE3 /* SneakyInput_0_4_0AppDelegate.m in Sources */,
 				4B78DCED197CAB6D00CA9CE3 /* CCColor.m in Sources */,
 				4B78DC07197CAB6C00CA9CE3 /* CCShader.m in Sources */,
 				4B78DC29197CAB6C00CA9CE3 /* CCAnimation.m in Sources */,
