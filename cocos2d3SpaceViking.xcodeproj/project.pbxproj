@@ -222,7 +222,6 @@
 		4B78DE71197CACB300CA9CE3 /* jumpUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE4D197CACB300CA9CE3 /* jumpUp.png */; };
 		4B78DE72197CACB300CA9CE3 /* sv_anim_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78DE4E197CACB300CA9CE3 /* sv_anim_1.png */; };
 		4B78DE75197CAF6B00CA9CE3 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DE74197CAF6B00CA9CE3 /* GameScene.m */; };
-		4B78DEA6197CDADE00CA9CE3 /* Joystick.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEA5197CDADE00CA9CE3 /* Joystick.m */; };
 		4B78DED4197CE1EA00CA9CE3 /* ColoredCircleSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC1197CE1EA00CA9CE3 /* ColoredCircleSprite.m */; };
 		4B78DED5197CE1EA00CA9CE3 /* ColoredSquareSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC3197CE1EA00CA9CE3 /* ColoredSquareSprite.m */; };
 		4B78DED6197CE1EA00CA9CE3 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DEC5197CE1EA00CA9CE3 /* HelloWorldScene.m */; };
@@ -667,8 +666,6 @@
 		4B78DE4E197CACB300CA9CE3 /* sv_anim_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sv_anim_1.png; sourceTree = "<group>"; };
 		4B78DE73197CAF6B00CA9CE3 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameScene.h; path = Classes/GameScene.h; sourceTree = "<group>"; };
 		4B78DE74197CAF6B00CA9CE3 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameScene.m; path = Classes/GameScene.m; sourceTree = "<group>"; };
-		4B78DEA4197CDADE00CA9CE3 /* Joystick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Joystick.h; sourceTree = "<group>"; };
-		4B78DEA5197CDADE00CA9CE3 /* Joystick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Joystick.m; sourceTree = "<group>"; };
 		4B78DEC0197CE1EA00CA9CE3 /* ColoredCircleSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColoredCircleSprite.h; sourceTree = "<group>"; };
 		4B78DEC1197CE1EA00CA9CE3 /* ColoredCircleSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColoredCircleSprite.m; sourceTree = "<group>"; };
 		4B78DEC2197CE1EA00CA9CE3 /* ColoredSquareSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColoredSquareSprite.h; sourceTree = "<group>"; };
@@ -1485,8 +1482,6 @@
 				4B78DE18197CAB6E00CA9CE3 /* IntroScene.m */,
 				4B78DE73197CAF6B00CA9CE3 /* GameScene.h */,
 				4B78DE74197CAF6B00CA9CE3 /* GameScene.m */,
-				4B78DEA4197CDADE00CA9CE3 /* Joystick.h */,
-				4B78DEA5197CDADE00CA9CE3 /* Joystick.m */,
 				4B78DE22197CACB300CA9CE3 /* Images */,
 			);
 			name = Classes;
@@ -1777,7 +1772,6 @@
 				4B78DCE6197CAB6D00CA9CE3 /* base64.c in Sources */,
 				4B78DC6F197CAB6C00CA9CE3 /* CCParticleSystemBase.m in Sources */,
 				4B78DCD4197CAB6D00CA9CE3 /* UITouch+CC.m in Sources */,
-				4B78DEA6197CDADE00CA9CE3 /* Joystick.m in Sources */,
 				4B78DD6E197CAB6D00CA9CE3 /* CCButton.m in Sources */,
 				4B78DC60197CAB6C00CA9CE3 /* CCParallaxNode.m in Sources */,
 				4B78DCF3197CAB6D00CA9CE3 /* ccUtils.c in Sources */,
