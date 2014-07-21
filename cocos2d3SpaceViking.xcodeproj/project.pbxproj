@@ -233,6 +233,8 @@
 		4B78DEDB197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DECF197CE1EA00CA9CE3 /* SneakyJoystickSkinnedBase.m */; };
 		4B78DEDC197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DED1197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m */; };
 		4B78DEDD197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78DED3197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m */; };
+		4BA50D87197D4C5E008A2245 /* scene1atlas.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BA50D86197D4C5E008A2245 /* scene1atlas.png */; };
+		4BA50D89197D4C74008A2245 /* scene1atlas.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4BA50D88197D4C74008A2245 /* scene1atlas.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -687,6 +689,8 @@
 		4B78DED1197CE1EA00CA9CE3 /* SneakyJoystickSkinnedDPadExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystickSkinnedDPadExample.m; sourceTree = "<group>"; };
 		4B78DED2197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyJoystickSkinnedJoystickExample.h; sourceTree = "<group>"; };
 		4B78DED3197CE1EA00CA9CE3 /* SneakyJoystickSkinnedJoystickExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystickSkinnedJoystickExample.m; sourceTree = "<group>"; };
+		4BA50D86197D4C5E008A2245 /* scene1atlas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scene1atlas.png; sourceTree = "<group>"; };
+		4BA50D88197D4C74008A2245 /* scene1atlas.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = scene1atlas.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1491,6 +1495,8 @@
 		4B78DE22197CACB300CA9CE3 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				4BA50D86197D4C5E008A2245 /* scene1atlas.png */,
+				4BA50D88197D4C74008A2245 /* scene1atlas.plist */,
 				4B78DE23197CACB300CA9CE3 /* App Launch Images */,
 				4B78DE2B197CACB300CA9CE3 /* Backgrounds */,
 				4B78DE32197CACB300CA9CE3 /* Icons */,
@@ -1703,9 +1709,11 @@
 				4B78DE70197CACB300CA9CE3 /* jumpUp-hd.png in Resources */,
 				4B78DE5E197CACB300CA9CE3 /* Icon@2x.png in Resources */,
 				4B78DE54197CACB300CA9CE3 /* Default.png in Resources */,
+				4BA50D89197D4C74008A2245 /* scene1atlas.plist in Resources */,
 				4B78DE62197CACB300CA9CE3 /* intro4.png in Resources */,
 				4B78DE59197CACB300CA9CE3 /* Icon-72.png in Resources */,
 				4B78DE63197CACB300CA9CE3 /* intro5.png in Resources */,
+				4BA50D87197D4C5E008A2245 /* scene1atlas.png in Resources */,
 				4B78DE6B197CACB300CA9CE3 /* handUp.png in Resources */,
 				4B78DE66197CACB300CA9CE3 /* dpadDown-hd.png in Resources */,
 				4B78DE60197CACB300CA9CE3 /* intro2.png in Resources */,
@@ -2079,6 +2087,7 @@
 				4B78DE1E197CAB6E00CA9CE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4B78DE1F197CAB6E00CA9CE3 /* Build configuration list for PBXNativeTarget "cocos2d3SpaceViking" */ = {
 			isa = XCConfigurationList;
@@ -2087,6 +2096,7 @@
 				4B78DE21197CAB6E00CA9CE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
